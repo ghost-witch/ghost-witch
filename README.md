@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ... full-stack development (HTML, CSS, JavaScript, & SQL).
 - 💞️ I’m looking to collaborate on ... learning projects. I'm still very new! ~
 - 📫 How to reach me ... 
--     + email:    ghostwiitch@gmail.com
--     + discord:  ghostwitch#9795
+-     email:    ghostwiitch@gmail.com
+-     discord:  ghostwitch#9795
